@@ -5,7 +5,7 @@
 [![Linguagens](https://img.shields.io/github/languages/count/SEU-USUARIO/SEU-REPOSITORIO)](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
 [![Top Language](https://img.shields.io/github/languages/top/SEU-USUARIO/SEU-REPOSITORIO)](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
 
-**[🚀 Explore o Quiz Online](https://SEU-USUARIO.github.io/SEU-REPOSITORIO/)**
+**[🚀 Explore o Quiz Online](https://jocelyn1379.github.io/Paraiba-Quiz/)**
 
 ## ✨ Sobre o Projeto
 
